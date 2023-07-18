@@ -1,0 +1,15 @@
+C:\Users\bocaj\OneDrive\Documentos\Cursos Platzi\CursoLinq\bin\Debug\net7.0\CursoLinq.exe
+C:\Users\bocaj\OneDrive\Documentos\Cursos Platzi\CursoLinq\bin\Debug\net7.0\CursoLinq.deps.json
+C:\Users\bocaj\OneDrive\Documentos\Cursos Platzi\CursoLinq\bin\Debug\net7.0\CursoLinq.runtimeconfig.json
+C:\Users\bocaj\OneDrive\Documentos\Cursos Platzi\CursoLinq\bin\Debug\net7.0\CursoLinq.dll
+C:\Users\bocaj\OneDrive\Documentos\Cursos Platzi\CursoLinq\bin\Debug\net7.0\CursoLinq.pdb
+C:\Users\bocaj\OneDrive\Documentos\Cursos Platzi\CursoLinq\obj\Debug\net7.0\CursoLinq.csproj.AssemblyReference.cache
+C:\Users\bocaj\OneDrive\Documentos\Cursos Platzi\CursoLinq\obj\Debug\net7.0\CursoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bocaj\OneDrive\Documentos\Cursos Platzi\CursoLinq\obj\Debug\net7.0\CursoLinq.AssemblyInfoInputs.cache
+C:\Users\bocaj\OneDrive\Documentos\Cursos Platzi\CursoLinq\obj\Debug\net7.0\CursoLinq.AssemblyInfo.cs
+C:\Users\bocaj\OneDrive\Documentos\Cursos Platzi\CursoLinq\obj\Debug\net7.0\CursoLinq.csproj.CoreCompileInputs.cache
+C:\Users\bocaj\OneDrive\Documentos\Cursos Platzi\CursoLinq\obj\Debug\net7.0\CursoLinq.dll
+C:\Users\bocaj\OneDrive\Documentos\Cursos Platzi\CursoLinq\obj\Debug\net7.0\refint\CursoLinq.dll
+C:\Users\bocaj\OneDrive\Documentos\Cursos Platzi\CursoLinq\obj\Debug\net7.0\CursoLinq.pdb
+C:\Users\bocaj\OneDrive\Documentos\Cursos Platzi\CursoLinq\obj\Debug\net7.0\CursoLinq.genruntimeconfig.cache
+C:\Users\bocaj\OneDrive\Documentos\Cursos Platzi\CursoLinq\obj\Debug\net7.0\ref\CursoLinq.dll
